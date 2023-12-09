@@ -1,0 +1,242 @@
+{"type": "FeatureCollection", "features": [
+	{"type": "Feature",
+		"properties": {"location": "new york city, usa", "data": ["https://gothamist.com/news/photos/photos-times-squares-transformation-into-a-pedestrian-friendly-tourist-fun-zone-is-complete"], "type": "normal", "icon-image": "upright", "icon-size": 0.75},
+		"geometry": {"type": "Point", "coordinates": [ -73.95, 40.8 ] }
+	},
+	{"type": "Feature",
+		"properties": {"location": "new york city, usa", "data": ["https://i.redd.it/egaw27rqk9b91.jpg"], "type": "wrong", "icon-image": "downright", "icon-size": 0.75},
+		"geometry": {"type": "Point", "coordinates": [ -74.0060, 40.7127 ] }
+	},
+	{"type": "Feature",
+		"properties": {"location": "jersey city, usa", "data": ["https://i.redd.it/86phnrzbjo7a1.png", "https://i.redd.it/ez5quo5wnhi91.jpg"], "type": "normal", "icon-image": "upright", "icon-size": 0.75},
+		"geometry": {"type": "Point", "coordinates": [ -74.0474, 40.7215 ] }
+	},
+	{"type": "Feature",
+		"properties": {"location": "chicago, usa", "data": ["https://i.redd.it/1f87stpqzmc81.jpg", "https://i.redd.it/2432acmjuru91.jpg"], "type": "normal", "icon-image": "upright", "icon-size": 0.75},
+		"geometry": {"type": "Point", "coordinates": [ -87.6244, 41.8755 ] }
+	},
+	{"type": "Feature",
+		"properties": {"location": "san diego, usa", "data": ["https://i.redd.it/5a5za8xgq2lb1.png"], "type": "normal", "icon-image": "upright", "icon-size": 0.75},
+		"geometry": {"type": "Point", "coordinates": [ -117.1625, 32.715 ] }
+	},
+	{"type": "Feature",
+		"properties": {"location": "miami, usa", "data": ["https://i.redd.it/ukuyllv28jj81.jpg", "https://i.redd.it/sjqvt8csrzj81.jpg"], "type": "normal", "icon-image": "upright", "icon-size": 0.75},
+		"geometry": {"type": "Point", "coordinates": [ -80.1936, 25.7741 ] }
+	},
+	{"type": "Feature",
+		"properties": {"location": "montreal, canada", "data": ["https://i.redd.it/29pr01yo89z81.jpg", "https://i.redd.it/3aplq5kkjo3c1.png", "https://i.redd.it/xd5exf4ljo3c1.png"], "type": "normal", "icon-image": "upright", "icon-size": 0.75},
+		"geometry": {"type": "Point", "coordinates": [ -73.5698, 45.5031 ] }
+	},
+	{"type": "Feature",
+		"properties": {"location": "stratford, canada", "data": ["https://i.redd.it/bc40fpb0iyra1.jpg", "https://i.redd.it/nltvgob0iyra1.jpg", "https://i.redd.it/dhsu0ob0iyra1.jpg", "https://i.redd.it/44sljnb0iyra1.jpg"], "type": "normal", "icon-image": "upright", "icon-size": 0.75},
+		"geometry": {"type": "Point", "coordinates": [ -80.9818, 43.3700 ] }
+	},
+	{"type": "Feature",
+		"properties": {"location": "mexico city, mexico", "data": ["https://i.redd.it/0cafvhirgmu71.jpg"], "type": "normal", "icon-image": "upright", "icon-size": 0.75},
+		"geometry": {"type": "Point", "coordinates": [ -99.1331, 19.4326 ] }
+	},
+	{"type": "Feature",
+		"properties": {"location": "guadalajara, mexico", "data": ["https://i.redd.it/v3rcgr542uob1.jpg"], "type": "normal", "icon-image": "upright", "icon-size": 0.75},
+		"geometry": {"type": "Point", "coordinates": [ -103.3475, 20.6767 ] }
+	},
+	{"type": "Feature",
+		"properties": {"location": "cali, colombia", "data": ["https://i.redd.it/2oz1m8u24ij71.jpg"], "type": "normal", "icon-image": "upright", "icon-size": 0.75},
+		"geometry": {"type": "Point", "coordinates": [ -76.5329, 3.4520 ] }
+	},
+	{"type": "Feature",
+		"properties": {"location": "bogota, colombia", "data": ["https://i.redd.it/62vnempafdc91.jpg"], "type": "normal", "icon-image": "upright", "icon-size": 0.75},
+		"geometry": {"type": "Point", "coordinates": [ -74.0835, 4.6529 ] }
+	},
+	{"type": "Feature",
+		"properties": {"location": "rio de janeiro, brazil", "data": ["https://i.imgur.com/eKfkbfA.jpg", "https://i.redd.it/tcq7tzdqg1pb1.jpg"], "type": "normal", "icon-image": "upright", "icon-size": 0.75},
+		"geometry": {"type": "Point", "coordinates": [ -43.2093, -22.9110 ] }
+	},
+	{"type": "Feature",
+		"properties": {"location": "paris, france", "data": ["https://slate.com/business/2021/09/paris-cars-bicycles-walking-david-belliard-anne-hidalgo.html", "https://i.redd.it/oafld8wp2mj81.jpg", "https://i.redd.it/34d3knknbrd91.jpg", "https://i.redd.it/orutr9lcdsr91.jpg", "https://i.redd.it/m428eyhfecka1.jpg", "https://twitter.com/the_transit_guy/status/1704483528333770793"], "type": "normal", "icon-image": "upright", "icon-size": 0.75},
+		"geometry": {"type": "Point", "coordinates": [ 2.3483, 48.8534 ] }
+	},
+	{"type": "Feature",
+		"properties": {"location": "london, endland", "data": ["https://i.redd.it/h3qovtddzvgb1.jpg"], "type": "normal", "icon-image": "upright", "icon-size": 0.75},
+		"geometry": {"type": "Point", "coordinates": [ -0.1276, 51.5073 ] }
+	},
+	{"type": "Feature",
+		"properties": {"location": "colombes, france", "data": ["https://i.redd.it/xhhrei0xz3181.jpg"], "type": "normal", "icon-image": "upright", "icon-size": 0.75},
+		"geometry": {"type": "Point", "coordinates": [ 2.2543, 48.9227 ] }
+	},
+	{"type": "Feature",
+		"properties": {"location": "marseille, france", "data": ["https://i.redd.it/r2x5f4wyi5891.png"], "notes": "both directions", "type": "normal", "icon-image": "upright", "icon-size": 0.75},
+		"geometry": {"type": "Point", "coordinates": [ 5.3699, 43.2961 ] }
+	},
+	{"type": "Feature",
+		"properties": {"location": "antibes, france", "data": ["https://i.redd.it/z4w8zp8kymb71.png", "https://i.redd.it/amjmmq8kymb71.png"], "type": "normal", "icon-image": "upright", "icon-size": 0.75},
+		"geometry": {"type": "Point", "coordinates": [ 7.1262, 43.5812 ] }
+	},
+	{"type": "Feature",
+		"properties": {"location": "montpellier, france", "data": ["https://i.redd.it/68tn2k0726e91.jpg", "https://i.redd.it/yf24zs4726e91.jpg"], "type": "normal", "icon-image": "upright", "icon-size": 0.75},
+		"geometry": {"type": "Point", "coordinates": [ 3.8767, 43.6112 ] }
+	},
+	{"type": "Feature",
+		"properties": {"location": "toulouse, france", "data": ["https://i.redd.it/g1nr4a5t1vva1.jpg", "https://twitter.com/CarsRuinedCity/status/1654559790914502657/photo/1"], "type": "normal", "icon-image": "upright", "icon-size": 0.75},
+		"geometry": {"type": "Point", "coordinates": [ 1.4442, 43.6044 ] }
+	},
+	{"type": "Feature",
+		"properties": {"location": "bordeaux, france", "data": ["https://i.redd.it/frpzzyrejk7b1.png"], "type": "normal", "icon-image": "upright", "icon-size": 0.75},
+		"geometry": {"type": "Point", "coordinates": [ -0.5800, 44.8412 ] }
+	},
+	{"type": "Feature",
+		"properties": {"location": "berlin, germany", "data": ["https://i.redd.it/rv3p59goeb181.jpg"], "type": "normal", "icon-image": "upright", "icon-size": 0.75},
+		"geometry": {"type": "Point", "coordinates": [ 13.3888, 52.5170 ] }
+	},
+	{"type": "Feature",
+		"properties": {"location": "dusseldorf, germany", "data": ["https://i.imgur.com/e7YIHTD.jpg"], "type": "normal", "icon-image": "upright", "icon-size": 0.75},
+		"geometry": {"type": "Point", "coordinates": [ 6.7763, 51.2254 ] }
+	},
+	{"type": "Feature",
+		"properties": {"location": "mainz, germany", "data": ["https://i.redd.it/r5odk1y7jok71.jpg"], "type": "normal", "icon-image": "upright", "icon-size": 0.75},
+		"geometry": {"type": "Point", "coordinates": [ 8.2762, 50.0012 ] }
+	},
+	{"type": "Feature",
+		"properties": {"location": "stuttgart, germany", "data": ["https://i.redd.it/4xmx4abjvdi81.jpg", "https://i.redd.it/3tt4s9gjvdi81.jpg"], "type": "normal", "icon-image": "upright", "icon-size": 0.75},
+		"geometry": {"type": "Point", "coordinates": [ 9.1800, 48.7784 ] }
+	},
+	{"type": "Feature",
+		"properties": {"location": "drewitz, germany", "data": ["https://i.redd.it/twsdaipmscc91.jpg"], "type": "normal", "icon-image": "upright", "icon-size": 0.75},
+		"geometry": {"type": "Point", "coordinates": [ 12.1654, 52.2137 ] }
+	},
+	{"type": "Feature",
+		"properties": {"location": "katowice, poland", "data": ["https://i.redd.it/nvnpf8cqek6b1.jpg"], "type": "normal", "icon-image": "upright", "icon-size": 0.75},
+		"geometry": {"type": "Point", "coordinates": [ 19.0215, 50.2598 ] }
+	},
+	{"type": "Feature",
+		"properties": {"location": "bydgoszcz, poland", "data": ["https://i.redd.it/6t89x9pdxcbb1.png"], "type": "normal", "icon-image": "upright", "icon-size": 0.75},
+		"geometry": {"type": "Point", "coordinates": [ 18.0002, 53.1219 ] }
+	},
+	{"type": "Feature",
+		"properties": {"location": "wuppertal, germany", "data": ["https://i.redd.it/lb82mjpeg1491.jpg", "https://i.redd.it/opw7rjpeg1491.jpg"], "type": "normal", "icon-image": "upright", "icon-size": 0.75},
+		"geometry": {"type": "Point", "coordinates": [ 7.1780, 51.2640 ] }
+	},
+	{"type": "Feature",
+		"properties": {"location": "brussels, belgium", "data": ["https://i.redd.it/yqd5drtqm95c1.jpg"], "type": "normal", "icon-image": "upright", "icon-size": 0.75},
+		"geometry": {"type": "Point", "coordinates": [ 4.3517, 50.8466 ] }
+	},
+	{"type": "Feature",
+		"properties": {"location": "milan, italy", "data": ["https://i.redd.it/2w89a744p6881.jpg", "https://i.redd.it/3wdlri37qsj81.jpg", "https://i.redd.it/i4qqpk37qsj81.jpg"], "type": "normal", "icon-image": "upright", "icon-size": 0.75},
+		"geometry": {"type": "Point", "coordinates": [ 9.1896, 45.4641 ] }
+	},
+	{"type": "Feature",
+		"properties": {"location": "lisbon, portugal", "data": ["https://i.redd.it/9q1f8uf2jj081.png", "https://i.imgur.com/tSIei1p.png", "https://lisboa-antes-e-depois.tumblr.com/", "https://i.redd.it/e47wp74pw9lb1.jpg"], "type": "normal", "icon-image": "upright", "icon-size": 0.75},
+		"geometry": {"type": "Point", "coordinates": [ -9.1365, 38.7077 ] }
+	},
+	{"type": "Feature",
+		"properties": {"location": "barcelona, spain", "data": ["https://i.redd.it/9ziao4red6h81.jpg", "https://i.redd.it/hvohakred6h81.jpg", "https://i.redd.it/7nw62ared6h81.jpg", "https://i.redd.it/i6t255red6h81.jpg", "https://i.redd.it/ew4hoered6h81.jpg", "https://i.redd.it/j86bg5red6h81.jpg", "https://i.redd.it/9se916red6h81.jpg", "https://i.redd.it/gblkmbred6h81.jpg", "https://i.redd.it/ujwinfred6h81.jpg", "https://i.redd.it/4zvgu6red6h81.jpg"], "type": "neither", "icon-image": "upright", "icon-size": 0.75},
+		"geometry": {"type": "Point", "coordinates": [ 2.1774, 41.3828 ] }
+	},
+	{"type": "Feature",
+		"properties": {"location": "vitoria-gasteiz, spain", "data": ["https://i.imgur.com/ISOyco7.jpg"], "type": "normal", "icon-image": "upright", "icon-size": 0.75},
+		"geometry": {"type": "Point", "coordinates": [ -2.6724, 42.8465 ] }
+	},
+	{"type": "Feature",
+		"properties": {"location": "vienna, austria", "data": ["https://i.redd.it/gjam1rdkpc181.png", "https://i.redd.it/e72tys99xj181.png", "https://i.pinimg.com/736x/9f/2b/44/9f2b446a222fbe3a04d612024ed6a5d3--adventure-time-auto.jpg", "https://i.imgur.com/OhyDE3l.jpeg", "https://i.redd.it/dj502sgap55c1.jpg"], "type": "normal", "icon-image": "upright", "icon-size": 0.75},
+		"geometry": {"type": "Point", "coordinates": [ 16.3725, 48.2083 ] }
+	},
+	{"type": "Feature",
+		"properties": {"location": "arhus, denmark", "data": ["https://i.redd.it/87kt4gtd59e81.png"], "type": "normal", "icon-image": "upright", "icon-size": 0.75},
+		"geometry": {"type": "Point", "coordinates": [ 10.2134, 56.1496 ] }
+	},
+	{"type": "Feature",
+		"properties": {"location": "copenhagen, denmark", "data": ["https://twitter.com/BrentToderian/status/1656021056308621312"], "type": "normal", "icon-image": "upright", "icon-size": 0.75},
+		"geometry": {"type": "Point", "coordinates": [ 12.5700, 55.6867 ] }
+	},
+	{"type": "Feature",
+		"properties": {"location": "amsterdam, netherlands", "data": ["https://imgur.com/a/rffE0Oz", "https://i.redd.it/7yf3nr7jkr081.jpg", "https://i.redd.it/obbcc1h7ub481.jpg", "https://i.redd.it/2gm712h7ub481.jpg", "https://twitter.com/donald_rennie/status/1526629947409694721", "https://i.redd.it/n2a5rvyhim591.jpg", "https://twitter.com/jonburkeUK/status/1686651784268242945"], "type": "normal", "icon-image": "upright", "icon-size": 0.75},
+		"geometry": {"type": "Point", "coordinates": [ 4.8924, 52.3730 ] }
+	},
+	{"type": "Feature",
+		"properties": {"location": "utrecht, netherlands", "data": ["https://i.imgur.com/yOWkryy.jpg", "https://i.redd.it/tio2n2wpgj781.png", "https://i.redd.it/98opgfd208fa1.jpg", "https://i.redd.it/0a4ccniywkub1.jpg"], "type": "normal", "icon-image": "upright", "icon-size": 0.75},
+		"geometry": {"type": "Point", "coordinates": [ 5.1276, 52.0809 ] }
+	},
+	{"type": "Feature",
+		"properties": {"location": "trnava, slovakia", "data": ["https://i.redd.it/wil3fuy5k2z81.jpg"], "type": "normal", "icon-image": "upright", "icon-size": 0.75},
+		"geometry": {"type": "Point", "coordinates": [ 17.5858, 48.3767 ] }
+	},
+	{"type": "Feature",
+		"properties": {"location": "jerusalem, israel", "data": ["https://i.redd.it/k49o3ksolg881.png"], "type": "normal", "icon-image": "upright", "icon-size": 0.75},
+		"geometry": {"type": "Point", "coordinates": [ 35.2119, 31.7959 ] }
+	},
+	{"type": "Feature",
+		"properties": {"location": "seoul, korea", "data": ["https://twitter.com/BrentToderian/status/1485772781778210816", "https://i.redd.it/hyib8s9qofkb1.jpg"], "type": "normal", "icon-image": "upright", "icon-size": 0.75},
+		"geometry": {"type": "Point", "coordinates": [ 126.9782, 37.5666 ] }
+	},
+	{"type": "Feature",
+		"properties": {"location": "melbourne, australia", "data": ["https://twitter.com/BrentToderian/status/1477663842268172292"], "type": "normal", "icon-image": "upright", "icon-size": 0.75},
+		"geometry": {"type": "Point", "coordinates": [ 144.9631, -37.8142 ] }
+	},
+	{"type": "Feature",
+		"properties": {"location": "brisbane, australia", "data": ["https://i.redd.it/9i25ic989ov71.png", "https://i.redd.it/q6od9do89ov71.jpg", "https://i.redd.it/6yd1odo89ov71.jpg", "https://i.redd.it/050ypdo89ov71.jpg"], "type": "normal", "icon-image": "upright", "icon-size": 0.75},
+		"geometry": {"type": "Point", "coordinates": [ 153.0234, -27.4689 ] }
+	},
+	{"type": "Feature",
+		"properties": {"location": "detroit, usa", "data": ["https://i.redd.it/ogm8ovptcid61.jpg"], "type": "wrong", "icon-image": "downright", "icon-size": 0.75},
+		"geometry": {"type": "Point", "coordinates": [ -83.0466, 42.3315 ] }
+	},
+	{"type": "Feature",
+		"properties": {"location": "cincinnati, usa", "data": ["https://i.redd.it/618aqgt1v8881.jpg", "https://i.redd.it/q2gkk0hm2v4c1.jpg"], "type": "wrong", "icon-image": "downright", "icon-size": 0.75},
+		"geometry": {"type": "Point", "coordinates": [ -84.5124, 39.1014 ] }
+	},
+	{"type": "Feature",
+		"properties": {"location": "liverpool, england", "data": ["https://i.redd.it/uz2pizw2vtf81.jpg"], "type": "wrong", "icon-image": "downright", "icon-size": 0.75},
+		"geometry": {"type": "Point", "coordinates": [ -2.9916, 53.4071 ] }
+	},
+	{"type": "Feature",
+		"properties": {"location": "liverpool, england", "data": ["https://i.redd.it/tgfdq800jli81.jpg"], "type": "wrong", "icon-image": "downright", "icon-size": 0.75},
+		"geometry": {"type": "Point", "coordinates": [ -2.9916, 53.4071 ] }
+	},
+	{"type": "Feature",
+		"properties": {"location": "bristol, england", "data": ["https://i.redd.it/rrnkj4memlm81.jpg"], "type": "wrong", "icon-image": "downright", "icon-size": 0.75},
+		"geometry": {"type": "Point", "coordinates": [ -2.5972, 51.4538 ] }
+	},
+	{"type": "Feature",
+		"properties": {"location": "manchester, england", "data": ["https://mobile.twitter.com/BrentToderian/status/1511957874695557125/photo/1"], "type": "wrong", "icon-image": "downright", "icon-size": 0.75},
+		"geometry": {"type": "Point", "coordinates": [ -2.2451, 53.4794 ] }
+	},
+	{"type": "Feature",
+		"properties": {"location": "leicester, england", "data": ["https://i.redd.it/yjgragnfdvw81.jpg"], "type": "wrong", "icon-image": "downright", "icon-size": 0.75},
+		"geometry": {"type": "Point", "coordinates": [ -1.1331, 52.6362 ] }
+	},
+	{"type": "Feature",
+		"properties": {"location": "altdorf, switzerland", "data": ["https://i.redd.it/cvfretvl2fi91.png"], "type": "wrong", "icon-image": "downright", "icon-size": 0.75},
+		"geometry": {"type": "Point", "coordinates": [ 8.6413, 46.8820 ] }
+	},
+	{"type": "Feature",
+		"properties": {"location": "teufelshöhle, germany", "data": ["https://i.redd.it/3xryj5cjrcbb1.jpg"], "type": "wrong", "icon-image": "downright", "icon-size": 0.75},
+		"geometry": {"type": "Point", "coordinates": [ 11.4200, 49.7543 ] }
+	},
+	{"type": "Feature",
+		"properties": {"location": "prague, czech republic", "data": ["https://i.imgur.com/yC5ohMj.jpg", "https://i.imgur.com/ffqGlVR.jpg"], "type": "wrong", "icon-image": "downright", "icon-size": 0.75},
+		"geometry": {"type": "Point", "coordinates": [ 14.4212, 50.0874 ] }
+	},
+	{"type": "Feature",
+		"properties": {"location": "tehran, iran", "data": ["https://i.redd.it/24qp7poamnbb1.jpg"], "type": "wrong", "icon-image": "downright", "icon-size": 0.75},
+		"geometry": {"type": "Point", "coordinates": [ 51.3896, 35.6892 ] }
+	},
+	{"type": "Feature",
+		"properties": {"location": "unknown, unknown", "data": ["https://i.redd.it/wwbomfj742c81.jpg"], "type": "neither", "icon-image": "right", "icon-size": 0.75},
+		"geometry": {"type": "Point", "coordinates": [ 0, 0 ] }
+	},
+	{"type": "Feature",
+		"properties": {"location": "unknown, unknown", "data": ["https://i.redd.it/43ec0dpyp7881.jpg"], "type": "neither", "icon-image": "right", "icon-size": 0.75},
+		"geometry": {"type": "Point", "coordinates": [ 0, 0 ] }
+	},
+	{"type": "Feature",
+		"properties": {"location": "kigali, rwanda", "data": ["https://i.redd.it/5wu3eikgpsf81.jpg", "https://i.redd.it/v5n8ehkgpsf81.jpg", "https://i.redd.it/sn2s6jkgpsf81.jpg"], "type": "neither", "icon-image": "right", "icon-size": 0.75},
+		"geometry": {"type": "Point", "coordinates": [ 30.0615, -1.9508 ] }
+	},
+	{"type": "Feature",
+		"properties": {"location": "amsterdam, netherlands", "data": ["https://twitter.com/BrentToderian/status/1513474697735725064"], "notes": "only the \"before\" picture", "type": "neither", "icon-image": "right", "icon-size": 0.75},
+		"geometry": {"type": "Point", "coordinates": [ 4.8924, 52.3730 ] }
+	},
+	{"type": "Feature",
+		"properties": {"location": "houstan, usa", "data": ["https://i.redd.it/dnt738ycrvs81.jpg"], "notes": "only the \"before\" picture", "type": "neither", "icon-image": "right", "icon-size": 0.75},
+		"geometry": {"type": "Point", "coordinates": [ -95.9539, 41.6034 ] }
+	}
+]}
