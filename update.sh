@@ -8,7 +8,7 @@ jq \
 	'
 def provideContent:
 	"<a target=\"_blank\" href=\"" + . + "\">" + (
-		if endswith(".jpg") or endswith(".png") then
+		if endswith(".png") or endswith(".jpg") or endswith(".jpeg") then
 			"<img style=\"width: 58em\" src=\"" + . + "\" />"
 		else
 			"<b>link</b>"
