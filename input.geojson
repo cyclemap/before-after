@@ -28,6 +28,10 @@
 		"geometry": {"type": "Point", "coordinates": [ -118.15, 34.683 ] }
 	},
 	{"type": "Feature",
+		"properties": {"location": "providence, usa", "data": ["https://twitter.com/the_transit_guy/status/1740785167118328278"], "type": "normal", "icon-image": "upright", "icon-size": 0.75},
+		"geometry": {"type": "Point", "coordinates": [ -71.422, 41.824 ] }
+	},
+	{"type": "Feature",
 		"properties": {"location": "montreal, canada", "data": ["https://i.redd.it/29pr01yo89z81.jpg", "https://i.redd.it/3aplq5kkjo3c1.png", "https://i.redd.it/xd5exf4ljo3c1.png"], "type": "normal", "icon-image": "upright", "icon-size": 0.75},
 		"geometry": {"type": "Point", "coordinates": [ -73.5698, 45.5031 ] }
 	},
@@ -132,7 +136,7 @@
 		"geometry": {"type": "Point", "coordinates": [ -9.1365, 38.7077 ] }
 	},
 	{"type": "Feature",
-		"properties": {"location": "barcelona, spain", "data": ["https://i.imgur.com/HAL0j3h.jpeg"], "type": "normal", "icon-image": "upright", "icon-size": 0.75},
+		"properties": {"location": "barcelona, spain", "data": ["https://i.imgur.com/HAL0j3h.jpeg", "https://i.redd.it/d55q8mfw6o7c1.jpeg"], "type": "normal", "icon-image": "upright", "icon-size": 0.75},
 		"geometry": {"type": "Point", "coordinates": [ 2.1774, 41.3828 ] }
 	},
 	{"type": "Feature",
