@@ -120,6 +120,10 @@
 		"geometry": {"type": "Point", "coordinates": [ 18.0002, 53.1219 ] }
 	},
 	{"type": "Feature",
+		"properties": {"location": "łódź, poland", "data": ["https://i.redd.it/ouwhgx6y3anc1.png"], "type": "normal", "icon-image": "upright", "icon-size": 0.75},
+		"geometry": {"type": "Point", "coordinates": [ 19.454722, 51.776944 ] }
+	},
+	{"type": "Feature",
 		"properties": {"location": "wuppertal, germany", "data": ["https://i.redd.it/lb82mjpeg1491.jpg", "https://i.redd.it/opw7rjpeg1491.jpg"], "type": "normal", "icon-image": "upright", "icon-size": 0.75},
 		"geometry": {"type": "Point", "coordinates": [ 7.1780, 51.2640 ] }
 	},
