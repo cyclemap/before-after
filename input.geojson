@@ -1,6 +1,6 @@
 {"type": "FeatureCollection", "features": [
 	{"type": "Feature",
-		"properties": {"location": "new york city, usa", "data": ["https://gothamist.com/news/photos/photos-times-squares-transformation-into-a-pedestrian-friendly-tourist-fun-zone-is-complete"], "type": "normal", "icon-image": "upright", "icon-size": 0.75},
+		"properties": {"location": "new york city, usa", "data": ["https://gothamist.com/news/photos/photos-times-squares-transformation-into-a-pedestrian-friendly-tourist-fun-zone-is-complete", "https://cdn-ikpohfl.nitrocdn.com/CvDDhgOkRPdsgwAtzbNzvVrwlbVWtSPc/assets/images/optimized/wp-content/uploads/2024/01/6d5a8e46c887ee6475be83b1a8a00895.Broadway-W-42nd-Street-1024x1024.jpg"], "type": "normal", "icon-image": "upright", "icon-size": 0.75},
 		"geometry": {"type": "Point", "coordinates": [ -73.95, 40.8 ] }
 	},
 	{"type": "Feature",
@@ -60,12 +60,16 @@
 		"geometry": {"type": "Point", "coordinates": [ -43.2093, -22.9110 ] }
 	},
 	{"type": "Feature",
-		"properties": {"location": "paris, france", "data": ["https://slate.com/business/2021/09/paris-cars-bicycles-walking-david-belliard-anne-hidalgo.html", "https://i.redd.it/oafld8wp2mj81.jpg", "https://i.redd.it/34d3knknbrd91.jpg", "https://i.redd.it/orutr9lcdsr91.jpg", "https://i.redd.it/m428eyhfecka1.jpg", "https://twitter.com/the_transit_guy/status/1704483528333770793"], "type": "normal", "icon-image": "upright", "icon-size": 0.75},
-		"geometry": {"type": "Point", "coordinates": [ 2.3483, 48.8534 ] }
+		"properties": {"location": "dublin, ireland", "data": ["https://cdn-ikpohfl.nitrocdn.com/CvDDhgOkRPdsgwAtzbNzvVrwlbVWtSPc/assets/images/optimized/wp-content/uploads/2024/01/e5f983e2382c55de21d8e2d00347dbea.Grafton-Street-Dublin-1024x1024.jpg"], "type": "normal", "icon-image": "upright", "icon-size": 0.75},
+		"geometry": {"type": "Point", "coordinates": [ -6.26, 53.35 ] }
 	},
 	{"type": "Feature",
 		"properties": {"location": "london, endland", "data": ["https://i.redd.it/h3qovtddzvgb1.jpg"], "type": "normal", "icon-image": "upright", "icon-size": 0.75},
 		"geometry": {"type": "Point", "coordinates": [ -0.1276, 51.5073 ] }
+	},
+	{"type": "Feature",
+		"properties": {"location": "paris, france", "data": ["https://slate.com/business/2021/09/paris-cars-bicycles-walking-david-belliard-anne-hidalgo.html", "https://i.redd.it/oafld8wp2mj81.jpg", "https://i.redd.it/34d3knknbrd91.jpg", "https://i.redd.it/orutr9lcdsr91.jpg", "https://i.redd.it/m428eyhfecka1.jpg", "https://twitter.com/the_transit_guy/status/1704483528333770793", "https://cdn-ikpohfl.nitrocdn.com/CvDDhgOkRPdsgwAtzbNzvVrwlbVWtSPc/assets/images/optimized/wp-content/uploads/2024/01/2ee2f993f40b42cf1c6eaad74282b8b7.paris-before-after-1-819x1024.jpg"], "type": "normal", "icon-image": "upright", "icon-size": 0.75},
+		"geometry": {"type": "Point", "coordinates": [ 2.3483, 48.8534 ] }
 	},
 	{"type": "Feature",
 		"properties": {"location": "colombes, france", "data": ["https://i.redd.it/xhhrei0xz3181.jpg"], "type": "normal", "icon-image": "upright", "icon-size": 0.75},
@@ -88,7 +92,7 @@
 		"geometry": {"type": "Point", "coordinates": [ 1.4442, 43.6044 ] }
 	},
 	{"type": "Feature",
-		"properties": {"location": "bordeaux, france", "data": ["https://i.redd.it/frpzzyrejk7b1.png"], "type": "normal", "icon-image": "upright", "icon-size": 0.75},
+		"properties": {"location": "bordeaux, france", "data": ["https://i.redd.it/frpzzyrejk7b1.png", "https://cdn-ikpohfl.nitrocdn.com/CvDDhgOkRPdsgwAtzbNzvVrwlbVWtSPc/assets/images/optimized/wp-content/uploads/2024/01/fb8e1fb6ad2fa6b9eb6f4f61dce2dd1a.Rue-du-Palais-de-lOmbriere-in-Bordeaux-1024x1024.jpg"], "type": "normal", "icon-image": "upright", "icon-size": 0.75},
 		"geometry": {"type": "Point", "coordinates": [ -0.5800, 44.8412 ] }
 	},
 	{"type": "Feature",
@@ -96,7 +100,7 @@
 		"geometry": {"type": "Point", "coordinates": [ 13.3888, 52.5170 ] }
 	},
 	{"type": "Feature",
-		"properties": {"location": "dusseldorf, germany", "data": ["https://i.imgur.com/e7YIHTD.jpg"], "type": "normal", "icon-image": "upright", "icon-size": 0.75},
+		"properties": {"location": "dusseldorf, germany", "data": ["https://i.imgur.com/e7YIHTD.jpg", "https://cdn-ikpohfl.nitrocdn.com/CvDDhgOkRPdsgwAtzbNzvVrwlbVWtSPc/assets/images/optimized/wp-content/uploads/2024/01/4242ffe7b3aa12e22657f0b1750a8757.dusseldorf-before-after-1024x1024.jpg"], "type": "normal", "icon-image": "upright", "icon-size": 0.75},
 		"geometry": {"type": "Point", "coordinates": [ 6.7763, 51.2254 ] }
 	},
 	{"type": "Feature",
@@ -132,6 +136,10 @@
 		"geometry": {"type": "Point", "coordinates": [ 4.3517, 50.8466 ] }
 	},
 	{"type": "Feature",
+		"properties": {"location": "modena, italy", "data": ["https://cdn-ikpohfl.nitrocdn.com/CvDDhgOkRPdsgwAtzbNzvVrwlbVWtSPc/assets/images/optimized/wp-content/uploads/2024/01/902fe29bdbad49eb43a0e12ce5ae7ebd.Piazza-Roma-Modena-Emilia-Romagna-1024x1024.jpg"], "type": "normal", "icon-image": "upright", "icon-size": 0.75},
+		"geometry": {"type": "Point", "coordinates": [ 10.9255, 44.647 ] }
+	},
+	{"type": "Feature",
 		"properties": {"location": "milan, italy", "data": ["https://i.redd.it/2w89a744p6881.jpg", "https://i.redd.it/3wdlri37qsj81.jpg", "https://i.redd.it/i4qqpk37qsj81.jpg"], "type": "normal", "icon-image": "upright", "icon-size": 0.75},
 		"geometry": {"type": "Point", "coordinates": [ 9.1896, 45.4641 ] }
 	},
@@ -148,7 +156,7 @@
 		"geometry": {"type": "Point", "coordinates": [ -2.6724, 42.8465 ] }
 	},
 	{"type": "Feature",
-		"properties": {"location": "vienna, austria", "data": ["https://i.redd.it/gjam1rdkpc181.png", "https://i.redd.it/e72tys99xj181.png", "https://i.pinimg.com/736x/9f/2b/44/9f2b446a222fbe3a04d612024ed6a5d3--adventure-time-auto.jpg", "https://i.imgur.com/OhyDE3l.jpeg", "https://i.redd.it/dj502sgap55c1.jpg"], "type": "normal", "icon-image": "upright", "icon-size": 0.75},
+		"properties": {"location": "vienna, austria", "data": ["https://i.redd.it/gjam1rdkpc181.png", "https://i.redd.it/e72tys99xj181.png", "https://i.pinimg.com/736x/9f/2b/44/9f2b446a222fbe3a04d612024ed6a5d3--adventure-time-auto.jpg", "https://i.imgur.com/OhyDE3l.jpeg", "https://i.redd.it/dj502sgap55c1.jpg", "https://cdn-ikpohfl.nitrocdn.com/CvDDhgOkRPdsgwAtzbNzvVrwlbVWtSPc/assets/images/optimized/wp-content/uploads/2024/01/b6f38ef93c3b762cd69c3644033ea5f0.vienna-before-after-1-828x1024.jpg"], "type": "normal", "icon-image": "upright", "icon-size": 0.75},
 		"geometry": {"type": "Point", "coordinates": [ 16.3725, 48.2083 ] }
 	},
 	{"type": "Feature",
@@ -164,7 +172,7 @@
 		"geometry": {"type": "Point", "coordinates": [ 4.8924, 52.3730 ] }
 	},
 	{"type": "Feature",
-		"properties": {"location": "utrecht, netherlands", "data": ["https://i.imgur.com/yOWkryy.jpg", "https://i.redd.it/tio2n2wpgj781.png", "https://i.redd.it/98opgfd208fa1.jpg", "https://i.redd.it/0a4ccniywkub1.jpg"], "type": "normal", "icon-image": "upright", "icon-size": 0.75},
+		"properties": {"location": "utrecht, netherlands", "data": ["https://i.imgur.com/yOWkryy.jpg", "https://i.redd.it/tio2n2wpgj781.png", "https://i.redd.it/98opgfd208fa1.jpg", "https://i.redd.it/0a4ccniywkub1.jpg", "https://cdn-ikpohfl.nitrocdn.com/CvDDhgOkRPdsgwAtzbNzvVrwlbVWtSPc/assets/images/optimized/wp-content/uploads/2024/01/44d5848aff41e7395acfe4d4922b5df8.utretcht-before-after-1024x1024.jpg", "https://cdn-ikpohfl.nitrocdn.com/CvDDhgOkRPdsgwAtzbNzvVrwlbVWtSPc/assets/images/optimized/wp-content/uploads/2024/01/0945cd067a87fe8d223391f489c9c16b.utretcht-street-transformation-1024x683.jpg"], "type": "normal", "icon-image": "upright", "icon-size": 0.75},
 		"geometry": {"type": "Point", "coordinates": [ 5.1276, 52.0809 ] }
 	},
 	{"type": "Feature",
@@ -244,7 +252,7 @@
 		"geometry": {"type": "Point", "coordinates": [ 30.0615, -1.9508 ] }
 	},
 	{"type": "Feature",
-		"properties": {"location": "amsterdam, netherlands", "data": ["https://twitter.com/BrentToderian/status/1513474697735725064"], "notes": "only the \"before\" picture", "type": "neither", "icon-image": "right", "icon-size": 0.75},
+		"properties": {"location": "amsterdam, netherlands", "data": ["https://twitter.com/BrentToderian/status/1513474697735725064", "https://cdn-ikpohfl.nitrocdn.com/CvDDhgOkRPdsgwAtzbNzvVrwlbVWtSPc/assets/images/optimized/wp-content/uploads/2024/01/b45c8781596e4b79edfb3eff2b060eac.amsterdam-before-after-1024x683.jpg"], "notes": "only the \"before\" picture", "type": "neither", "icon-image": "right", "icon-size": 0.75},
 		"geometry": {"type": "Point", "coordinates": [ 4.8924, 52.3730 ] }
 	},
 	{"type": "Feature",
