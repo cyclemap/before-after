@@ -132,7 +132,7 @@
 		"geometry": {"type": "Point", "coordinates": [ 7.1780, 51.2640 ] }
 	},
 	{"type": "Feature",
-		"properties": {"location": "brussels, belgium", "data": ["https://i.redd.it/yqd5drtqm95c1.jpg"], "type": "normal", "icon-image": "upright", "icon-size": 0.75},
+		"properties": {"location": "brussels, belgium", "data": ["https://live.staticflickr.com/3041/3035151158_c5d7c7cdbe_3k.jpg", "https://agendabrussels2.imgix.net/fde4c77c08c05e22555dc5f78f21fd2c0a8bf496.jpg", "https://i.redd.it/yqd5drtqm95c1.jpg"], "type": "normal", "icon-image": "upright", "icon-size": 0.75},
 		"geometry": {"type": "Point", "coordinates": [ 4.3517, 50.8466 ] }
 	},
 	{"type": "Feature",
